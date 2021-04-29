@@ -24,7 +24,8 @@ We have different types of classification algorithms in Machine Learning:-
 4. Kernel SVM
 5. Naïve Bayes
 6. Decision Tree Algorithm
-7. Random Forest Classification
+7. Random Forest Classification <br>
+
 We will analyze our dataset and apply different classification algorithms. By using the scikit-learn library we will import all the methods of classification algorithms and check which model is better than others.
 
 
