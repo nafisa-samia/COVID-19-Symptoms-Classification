@@ -33,6 +33,7 @@ We will analyze our dataset and apply different classification algorithms. By us
 Now our model will predict the result of the testing set and we have to check the accuracy of each model. To visualize the performance of an algorithm, the confusion matrix is widely used. We will evaluate the model to get the classification result from the confusion matrix. Classification accuracy will be used to find the actual performance of each class of the model. Basically, classification accuracy is the ratio of the number of correctly classified samples and the total number of samples.
 
 **Step 5: Improving the Model:**
-After applying the different classification models, we will choose the best classification model for this dataset and do further calculations to improve our model.
+After applying the different classification models, we will choose the best classification model for this dataset and do further calculations to improve our model. <br>
 
 
+At first, we calcualte the predicted result using cross validation and then we make ensemble of classifiers to check whether the accuracy is increased or not. 
