@@ -36,4 +36,4 @@ Now our model will predict the result of the testing set and we have to check th
 After applying the different classification models, we will choose the best classification model for this dataset and do further calculations to improve our model. <br>
 
 
-At first, we calcualte the predicted result using cross validation and then we make ensemble of classifiers to check whether the accuracy is increased or not. 
+At first, we calcualte the predicted result using cross validation and then we make ensemble of classifiers and then average the result to check whether the accuracy is increased or not. 
