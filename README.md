@@ -1,5 +1,7 @@
 # COVID-19-Symptoms-Classification
 
+In this project, I used a Covid Dataset from Kaggle and applied different types of Machine Learning algorithms to classify whether a patient is Covid positive or negative based on the existing symptoms.
+
 Here is the source of our Dataset: 
 https://www.kaggle.com/zhiruo19/covid19-symptoms-classification
 
